@@ -1,4 +1,4 @@
-# 🤓biora here
+# Hi there 👋, 🤓biora here
 
 You can reach me via these channels
 
