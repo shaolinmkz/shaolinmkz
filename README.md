@@ -8,7 +8,7 @@ You can reach me via these channels
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=002347067443245)](https://api.whatsapp.com/send?phone=002347067443245)
 
 
-I'm a frontend developer with [Softcom](https://softcom.ng), currently working on [Kwiklli](https://npay-user.bluegreensoft.com) for [banks](https://kwiklli-bank-demo.netlify.app).
+I'm a frontend developer with [Softcom](https://softcom.ng), currently working on Kwiklli for banks.
 
 <!--
 **shaolinmkz/shaolinmkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
