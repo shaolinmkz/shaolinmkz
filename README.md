@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### profile.json
-
 ```js
 const links = {
   myportfolio: "https://nochukwuemeka.netlify.app",
