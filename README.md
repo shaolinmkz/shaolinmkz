@@ -27,20 +27,11 @@ Here are some ideas to get you started:
 
 ### profile.json
 
-```json
-{
-  "name": "Chukwuemeka Obiora Nwabuzor",
-  "version": "latest",
-  "jobTitle": "Frontend Engineer",
-  "phone": "+234 706 744 3245",
-  "email": "nwabuzor.obiora@gmail.com",
-  "location": "Earth",
-  "education": "Mechanical Engineering (B.Eng), University of PortHarcourt",
-  "social": {
-    "myportfolio": "https://nochukwuemeka.netlify.app",
-    "twitter": "https://www.twitter.com/shaolinmkz",
-    "linkedin": "https://www.linkedin.com/in/shaolinmkz",
-    "instagram": "http://instagram.com/shaolinmkz"
-  }
+```js
+const links = {
+  myportfolio: "https://nochukwuemeka.netlify.app",
+  twitter: "https://www.twitter.com/shaolinmkz",
+  linkedin: "https://www.linkedin.com/in/shaolinmkz",
+  instagram: "http://instagram.com/shaolinmkz"
 }
 ```
