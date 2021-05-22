@@ -8,7 +8,11 @@ You can reach me via these channels
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=002347067443245)](https://api.whatsapp.com/send?phone=002347067443245)
 
 
-I'm a frontend developer with [Softcom](https://softcom.ng), currently working on Kwiklli.
+I'm a frontend developer at [Softcom](https://softcom.ng).
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaolinmkz&layout=compact&hide=css,html&theme=dark" alt="shaolinmkz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaolinmkz&count_private=true&show_icons=true&theme=dark&include_all_commits=true" alt="shaolinmkz-stats" /></p>
 
 <!--
 **shaolinmkz/shaolinmkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
