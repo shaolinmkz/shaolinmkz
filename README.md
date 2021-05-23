@@ -8,8 +8,6 @@ You can reach me via these channels
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=002347067443245)](https://api.whatsapp.com/send?phone=002347067443245)
 
 
-I'm a frontend developer at [Softcom](https://softcom.ng).
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaolinmkz&layout=compact&hide=css,html&theme=dark" alt="shaolinmkz" /></p>
 
 <br />
