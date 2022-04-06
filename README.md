@@ -1,4 +1,4 @@
-# Hi there 👋, 🤓biora here
+# Hi there <img alt="hello" width="32" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, 🤓biora here
 
 You can reach me via these channels
 
@@ -8,7 +8,13 @@ You can reach me via these channels
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=002347067443245)](https://api.whatsapp.com/send?phone=002347067443245)
 
 
+[![Shaolin's github stats](https://github-readme-stats.vercel.app/api?username=shaolinmkz&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+<br />
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaolinmkz&layout=compact&hide=css,html&theme=dark" alt="shaolinmkz" /></p>
+
 
 <!--
 **shaolinmkz/shaolinmkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
