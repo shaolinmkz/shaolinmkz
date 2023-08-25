@@ -5,7 +5,6 @@ You can reach me via these channels
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaolinmkz/)](https://www.linkedin.com/in/shaolinmkz/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nwabuzor.obiora@gmail.com)](mailto:nwabuzor.obiora@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/shaolinmkz)](https://www.twitter.com/shaolinmkz)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=002347067443245)](https://api.whatsapp.com/send?phone=002347067443245)
 
 
 <!--[![Shaolin's github stats](https://github-readme-stats.vercel.app/api?username=shaolinmkz&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
