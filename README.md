@@ -62,9 +62,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/shaolinmkz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=vision-friendly-dark&hide_border=true&username=shaolinmkz&title_color=0891b2" alt="Top Languages" /></a>
 
 
-<img src="https://raw.githubusercontent.com/rutkuli/rutkuli/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake playground animation" />
-
-
 Reach me via:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaolinmkz/)](https://www.linkedin.com/in/shaolinmkz/)
