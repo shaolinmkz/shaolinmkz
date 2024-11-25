@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
-### Stats
+<!--### Stats -->
 
 <a href="http://www.github.com/shaolinmkz"><img src="https://github-readme-stats.vercel.app/api?username=shaolinmkz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="shaolinmkz's GitHub stats" /></a>
 
