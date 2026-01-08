@@ -1,4 +1,4 @@
-# Hiya  <img alt="hello" width="32" src="https://res.cloudinary.com/shaolinmkz/image/upload/v1745833185/My-port-folio/wave.gif" />
+# Hello  <img alt="hello" width="32" src="https://res.cloudinary.com/shaolinmkz/image/upload/v1745833185/My-port-folio/wave.gif" />
 
 <!--[![Shaolin's github stats](https://github-readme-stats.vercel.app/api?username=shaolinmkz&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 -->
@@ -55,14 +55,14 @@ Here are some ideas to get you started:
 
 <!--### Stats -->
 
-<a href="http://www.github.com/shaolinmkz"><img src="https://github-readme-stats.vercel.app/api?username=shaolinmkz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="shaolinmkz's GitHub stats" /></a>
+<!-- <a href="http://www.github.com/shaolinmkz"><img src="https://github-readme-stats.vercel.app/api?username=shaolinmkz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="shaolinmkz's GitHub stats" /></a> -->
 
 <!-- <a href="http://www.github.com/shaolinmkz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shaolinmkz&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
 
 <a href="http://www.github.com/shaolinmkz"><img src="https://github-readme-activity-graph.vercel.app/graph?username=shaolinmkz&bg_color=000000&color=4c839e&line=8b8adb&point=b8b7f0&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="Github Activity Graph" /></a>
 
-<a href="https://github.com/shaolinmkz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=vision-friendly-dark&hide_border=true&username=shaolinmkz&title_color=0891b2" alt="Top Languages" /></a>
-
+<!-- <a href="https://github.com/shaolinmkz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=vision-friendly-dark&hide_border=true&username=shaolinmkz&title_color=0891b2" alt="Top Languages" /></a>
+ -->
 
 Reach me via:
 
